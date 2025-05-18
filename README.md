@@ -15,6 +15,14 @@
 >### [5. Development Environment](#5-development-environment)
 >### [6. Features](#6-features)
 >### [7. Directory Structure](#7-directory-structure)
+>### [8. Comparative Program Analysis](#8-comparative-program-analysis)
+>### [9. Work Flow Chart](#9-work-flow-chart)
+>### [10. ERD](#10-erd)
+>### [11. Persona Analysis](#11-persona-analysis)
+>### [12. WBS](#12-wbs)
+>### [13.Software Requirement Specification](#13-softwar-requirement-specification)
+>### [14. Figma Planning](#14-figma-planning)
+>### [15. Questionnaire](#15-questionnaire)
 
 <br>
 
@@ -315,3 +323,69 @@
 
 <a href="https://github.com/Solving-Our-Meals/ukki-back" target="_blank">우끼 Backend 깃허브 보러가기</a>
 
+<br>
+
+## 8. Comparative Program Analysis
+<details>
+<summary>1. 캐치테이블</summary>
+  <img src="https://github.com/user-attachments/assets/ad796546-46c6-4f05-bc91-8550757927ee" alt="캐치테이블" width="600"/>
+</details>
+<details>
+<summary>2. 포잉</summary>
+  <img src="https://github.com/user-attachments/assets/5d8ad40b-70c1-4001-8d51-9cde193dde35" alt="포잉" width="600"/>
+</details>
+<details>
+<summary>3. AutoReserve</summary>
+  <img src="https://github.com/user-attachments/assets/062d4d13-6a2d-4ee6-8c12-979803faa07f" alt="AutoReserve" width="600"/>
+</details>
+<details>
+<summary>4. 테이블링</summary>
+  <img src="https://github.com/user-attachments/assets/951c275e-b500-4a16-9513-d12dd0b7a8bf" alt="테이블링" width="600"/>
+</details>
+
+<br>
+
+## 9. Work Flow Chart
+![업무흐름도](https://github.com/user-attachments/assets/3c26f01e-ea77-46fd-b5d5-5ccb264d50af)
+
+## 10. ERD
+### 논리 데이터베이스 모델
+![image (2)](https://github.com/user-attachments/assets/b51f74e6-2ae2-4e52-88bd-908c789f53d5)
+### 물리 데이터베이스 모델
+![image (3)](https://github.com/user-attachments/assets/3f7a30f1-2632-4e5f-81cf-921817baf337)
+
+<br>
+
+## 11. Persona Analysis
+<details>
+<summary>페르소나 분석</summary>
+  <img src="https://github.com/user-attachments/assets/82c0c042-eb38-4b1c-8755-9c54464fc812" alt="이명호_사용자여정지도" width="500"/>
+  <img src="https://github.com/user-attachments/assets/7d331668-c937-4eed-b163-4d1c50d753ca" alt="이명호_페르소나분석" width="500"/>
+  <img src="https://github.com/user-attachments/assets/23006004-6c23-481e-b4c1-24b241b49fc1" alt="한수희_사용자여정지도" width="500"/>
+  <img src="https://github.com/user-attachments/assets/89e1e912-df00-4913-89a6-e4af83846dc4" alt="한수희_페르소나분석" width="500"/>
+</details>
+
+<br>
+
+## 12. WBS
+<details>
+<summary>페르소나 분석</summary>
+  <img src="https://github.com/user-attachments/assets/486b598a-194e-4afc-b096-6f2d87b589ed" alt="WBS" width="600"/>
+</details>
+
+<br>
+
+## 13.Software Requirement Specification
+
+<br>
+
+## 14. Figma Planning
+<details>
+<summary>Figma Planning</summary>
+  <img src="https://github.com/user-attachments/assets/4ca1e6c3-73ee-44ff-b44e-9db08804f9fb" alt="피그마 기획" width="600"/>
+</details>
+
+<br>
+
+
+## 15. Questionnaire
