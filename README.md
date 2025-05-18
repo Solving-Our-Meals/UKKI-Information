@@ -112,10 +112,21 @@
 <br>
 
 ## 6. Features
+### 공통 기능
+#### 메인 페이지
+<img src="https://github.com/user-attachments/assets/2e67414b-4943-41ca-87b6-99359ac9dfed" alt="메인페이지gif" width="600"/>
+
+#### 식당 검색
+
+
 ### 회원 관련 기능
 #### 식당 정보 상세 보기
+![image (8)](https://github.com/user-attachments/assets/ba95924b-5b6e-4864-9872-f648c2a8510f)
+
 
 #### 식당 예약
+![image](https://github.com/user-attachments/assets/04ec9d4f-f906-4a48-88e4-8ec015f2e85a)
+
 
 <br>
 
@@ -123,6 +134,8 @@
 #### 예약 가능 인원 조정
 
 #### 리뷰 관리
+![image (9)](https://github.com/user-attachments/assets/40259614-01bd-49ad-b2c9-1ab04351d5df)
+
 
 <br>
 
