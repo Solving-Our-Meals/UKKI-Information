@@ -13,6 +13,8 @@
 >### [3. Project Outline](#3-project-outline)
 >### [4. Project Architecture](#4-project-architecture)
 >### [5. Development Environment](#5-development-environment)
+>### [6. Features](#6-features)
+>### [7. Directory Structure](#7-directory-structure)
 
 <br>
 
@@ -99,3 +101,217 @@
 > __[Freepik Premium](https://www.freepik.com/)__ (Payment & No copyright issues)
 
 <br>
+
+## 6. Features
+### 공통
+#### 메인 페이지
+
+#### 검색
+
+### 회원 기능
+#### 식당 정보 상세 보기
+
+#### 식당 예약
+
+### 식당 사장님 기능
+#### 예약 가능 인원 조정
+
+#### 리뷰 관리
+
+### 관리자 기능
+
+<br>
+
+## 7. Directory Structure
+<h3> 
+<details>
+<summary><a></a>Frontend</summary>
+<div markdown="1">
+  
+```
+📦src
+├─📂admin
+│  └─📂components
+│     └─📂css
+│  └─📂layouts
+│     └─📂user
+│  └─📂pages
+│     ├─📂dashboard
+│     ├─📂inquiry
+│     ├─📂notice
+│     ├─📂reservation
+│     ├─📂review
+│     ├─📂store
+│     └─📂user
+│  └─📂route
+├─📂common
+│  ├─📂authContext
+│  ├─📂default
+│  ├─📂error
+│  ├─📂floatingBar
+│  ├─📂footer
+│  ├─📂header
+│  ├─📂inquiry
+│  ├─📂logoutButton
+│  └─📂reset
+├─📂config
+├─📂store
+│  ├─📂layouts
+│  └─📂pages
+│     ├─📂bossInquiry
+│     ├─📂bossNotice
+│     ├─📂bossReview
+│     ├─📂bossStore
+│     ├─📂qrCheck
+│     └─📂storeInfo
+├─📂user
+│  ├─📂css
+│  ├─📂layouts
+│  └─📂pages
+│     ├─📂announcement
+│     ├─📂find
+│     ├─📂info
+│     ├─📂login
+│     ├─📂main
+│     ├─📂mypage
+│     ├─📂reservation
+│     ├─📂search
+│     ├─📂signup
+│     └─📂storedetail
+├─ app.js
+└─ index.js
+```
+
+</div>
+</details>
+</h3>
+
+<a href="https://github.com/Solving-Our-Meals/ukki-front" target="_blank">우끼 Frontend 깃허브 보러가기</a>
+
+<h3>
+<details>
+<summary>Backend</summary>
+<div markdown="1">
+
+```shell
+ 
+📦ukki-back
+  └─ src
+     └─ main.java.com.ohgiraffers.ukki
+        │           ├─ 📂admin
+        │           │  ├─ 📂inquiry
+        │           │  │  ├─ 📂controller
+        │           │  │  └─ 📂model
+        │           │  │     ├─ 📂dao
+        │           │  │     ├─ 📂dto
+        │           │  │     └─ 📂service
+        │           │  ├─ 📂notice
+        │           │  │  ├─ 📂controller
+        │           │  │  └─ 📂model
+        │           │  │     ├─ 📂dao
+        │           │  │     ├─ 📂dto
+        │           │  │     └─ 📂service
+        │           │  ├─ 📂reservation
+        │           │  │  ├─ 📂controller
+        │           │  │  └─ 📂model
+        │           │  │     ├─ 📂dao
+        │           │  │     ├─ 📂dto
+        │           │  │     └─ 📂service
+        │           │  ├─ 📂review
+        │           │  │  ├─ 📂controller
+        │           │  │  └─ 📂model
+        │           │  │     ├─ 📂dao
+        │           │  │     ├─ 📂dto
+        │           │  │     └─ 📂service
+        │           │  ├─ 📂store
+        │           │  │  ├─ 📂controller
+        │           │  │  └─ 📂model
+        │           │  │     ├─ 📂dao
+        │           │  │     ├─ 📂dto
+        │           │  │     └─ 📂service
+        │           │  └─ 📂user
+        │           │     ├─ 📂controller
+        │           │     └─ 📂model
+        │           │        ├─ 📂dao
+        │           │        ├─ 📂dto
+        │           │        └─ 📂service
+        │           ├─ 📂auth
+        │           │  ├─ 📂controller
+        │           │  ├─ 📂filter
+        │           │  └─ 📂model
+        │           │     ├─ 📂dao
+        │           │     ├─ 📂dto
+        │           │     └─ 📂service
+        │           ├─ 📂common
+        │           │  ├─ 📂controller
+        │           │  ├─ 📂handler
+        │           │  └─ 📂service
+        │           ├─ 📂config
+        │           ├─ 📂exception
+        │           ├─ 📂inquiry
+        │           │  ├─ 📂controller
+        │           │  └─ 📂model
+        │           │     ├─ 📂dao
+        │           │     ├─ 📂dto
+        │           │     └─ 📂service
+        │           ├─ 📂notice
+        │           │  ├─ 📂controller
+        │           │  └─ 📂model
+        │           │     ├─ 📂dao
+        │           │     ├─ 📂dto
+        │           │     └─ 📂service
+        │           ├─ 📂qr
+        │           │  ├─ 📂controller
+        │           │  └─ 📂model
+        │           │     ├─ 📂dao
+        │           │     └─ 📂service
+        │           ├─ 📂report
+        │           │  ├─ 📂controller
+        │           │  └─ 📂model
+        │           │     ├─ 📂dao
+        │           │     ├─ 📂dto
+        │           │     └─ 📂service
+        │           ├─ 📂reservation
+        │           │  ├─ 📂controller
+        │           │  └─ 📂model
+        │           │     ├─ 📂dao
+        │           │     ├─ 📂dto
+        │           │     └─ 📂service
+        │           ├─ 📂store
+        │           │  ├─ 📂controller
+        │           │  └─ 📂model
+        │           │     ├─ 📂dao
+        │           │     ├─ 📂dto
+        │           │     └─ 📂service
+        │           └─ 📂user
+        │              ├─ 📂controller
+        │              └─ 📂model
+        │                 ├─ 📂dao
+        │                 ├─ 📂dto
+        │                 └─ 📂service
+        └─ 📂resources
+           ├─ 📂images
+           ├─ 📂mappers
+           │  ├─ 📂admin
+           │  │  ├─ 📂inquiry
+           │  │  ├─ 📂notice
+           │  │  ├─ 📂reservation
+           │  │  ├─ 📂view
+           │  │  ├─ 📂store
+           │  │  └─ 📂user
+           │  ├─ 📂inquiry
+           │  ├─ 📂mypage
+           │  ├─ 📂notice
+           │  ├─ 📂qr
+           │  └─ 📂report
+           ├─ application.yml
+           ├─ application-prod.yml
+           └─ credentials.json
+```
+
+</div>
+</details>
+</h3>
+
+<a href="https://github.com/Solving-Our-Meals/ukki-back" target="_blank">우끼 Backend 깃허브 보러가기</a>
+
