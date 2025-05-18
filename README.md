@@ -20,9 +20,10 @@
 >### [10. ERD](#10-erd)
 >### [11. Persona Analysis](#11-persona-analysis)
 >### [12. WBS](#12-wbs)
->### [13.Software Requirement Specification](#13-softwar-requirement-specification)
->### [14. Figma Planning](#14-figma-planning)
->### [15. Questionnaire](#15-questionnaire)
+>### [13. Software Requirement Specification](#13-softwar-requirement-specification)
+>### [14. RESTful API design](#14-restful-api-design")
+>### [15. Figma Planning](#15-figma-planning)
+>### [16. Questionnaire](#16-questionnaire)
 
 <br>
 
@@ -116,15 +117,21 @@
 
 #### 검색
 
+<br>
+
 ### 회원 기능
 #### 식당 정보 상세 보기
 
 #### 식당 예약
 
+<br>
+
 ### 식당 사장님 기능
 #### 예약 가능 인원 조정
 
 #### 리뷰 관리
+
+<br>
 
 ### 관리자 기능
 
@@ -369,23 +376,47 @@
 
 ## 12. WBS
 <details>
-<summary>페르소나 분석</summary>
-  <img src="https://github.com/user-attachments/assets/486b598a-194e-4afc-b096-6f2d87b589ed" alt="WBS" width="600"/>
+<summary>WBS</summary>
+  <img src="https://github.com/user-attachments/assets/486b598a-194e-4afc-b096-6f2d87b589ed" alt="WBS" width="900"/>
 </details>
 
 <br>
 
 ## 13.Software Requirement Specification
-
-<br>
-
-## 14. Figma Planning
 <details>
-<summary>Figma Planning</summary>
-  <img src="https://github.com/user-attachments/assets/4ca1e6c3-73ee-44ff-b44e-9db08804f9fb" alt="피그마 기획" width="600"/>
+<summary>Software Requirement Specification</summary>
+  <img src="https://github.com/user-attachments/assets/7717b823-2485-4706-b24e-4a6bc681ca65" alt="Software Requirement Specification" width="500"/>
+  <img src="https://github.com/user-attachments/assets/cb983fe4-e23e-4a05-9dab-64ee2f250ba3" alt="Software Requirement Specification" width="500"/>
+  <img src="https://github.com/user-attachments/assets/d5ac65f8-dbe3-43c5-a82c-ac856c2cfa55" alt="Software Requirement Specification" width="500"/>
+  <img src="https://github.com/user-attachments/assets/f3443697-4bfd-4595-834a-9b7d34b1226d" alt="Software Requirement Specification" width="500"/>
 </details>
 
 <br>
 
+## 14. RESTful API design
+<details>
+<summary>RESTful API design</summary>
+  <img src="https://github.com/user-attachments/assets/4cfc6c29-1810-4927-b757-c7b9366d91e6" alt="RESTful API design" width="500"/>
+  <img src="https://github.com/user-attachments/assets/9f74ecc5-b938-418b-97d1-5c637375fcd0" alt="RESTful API design" width="500"/>
+  <img src="https://github.com/user-attachments/assets/9d18575c-da2c-467f-85eb-2b0d8234e389" alt="RESTful API design" width="500"/>
+  <img src="https://github.com/user-attachments/assets/8bc9ac40-81ea-4ca1-b78d-0dbd76757945" alt="RESTful API design" width="500"/>
+</details>
 
-## 15. Questionnaire
+<br>
+
+## 15. Figma Planning
+<details>
+<summary>Figma Planning</summary>
+  <img src="https://github.com/user-attachments/assets/4ca1e6c3-73ee-44ff-b44e-9db08804f9fb" alt="피그마 기획" width="900"/>
+</details>
+
+<br>
+
+## 16. Questionnaire
+<details>
+<summary>Questionnaire</summary>
+  <img src="https://github.com/user-attachments/assets/f06eb560-038b-45ad-9435-af749936deb0" alt="혼밥장소" width="500"/>
+  <img src="https://github.com/user-attachments/assets/1414ca67-8ed1-4288-bbc4-99981e96e1cc" alt="혼밥식당참고사이트" width="500"/>
+  <img src="https://github.com/user-attachments/assets/66589c2a-e22d-4d79-b707-d2f75ee03352" alt="혼밥만족도" width="500"/>
+  <img src="https://github.com/user-attachments/assets/1b364d50-d371-4f83-b1dd-f19f40a310af" alt="혼밥개선점" width="500"/>
+</details>
