@@ -116,6 +116,7 @@
 #### 메인 페이지
 <img src="https://github.com/user-attachments/assets/2e67414b-4943-41ca-87b6-99359ac9dfed" alt="메인페이지gif" width="600"/>
 
+
 #### 식당 검색
 
 
