@@ -9,7 +9,7 @@
 
 ## 목차
 > ### [1. S.O.M (Solving Our Meals)](#1-som-solving-our-meals-1) 
-> ### [2. Team Members Information](#2-team-members-information)
+> ### [2. Team Members Information](#2-team-members-information-2)
 > ### [3. Project Outline](#3-project-outline)  
 > ### [4. Project Architecture](#4-project-architecture)  
 > ### [5. Development Environment](#5-development-environment)  
