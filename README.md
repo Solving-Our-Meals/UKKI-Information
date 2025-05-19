@@ -8,8 +8,8 @@
 </p>
 
 ## 목차
-> ### [1. S.O.M (Solving Our Meals)](#1-som-solving-our-meals)  
-> ### [2. Team Members Information](#2-team-members-information)  
+> ### [1. S.O.M (Solving Our Meals)](#1-som-solving-our-meals-1) 
+> ### [2. Team Members Information](#2-team-members-information)
 > ### [3. Project Outline](#3-project-outline)  
 > ### [4. Project Architecture](#4-project-architecture)  
 > ### [5. Development Environment](#5-development-environment)  
@@ -24,7 +24,6 @@
 > ### [14. RESTful API design](#14-restful-api-design)  
 > ### [15. Figma Planning](#15-figma-planning)  
 > ### [16. Questionnaire](#16-questionnaire)  
-
 
 <br>
 
