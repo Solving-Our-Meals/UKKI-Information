@@ -145,11 +145,6 @@
 
 <hr>
 
-#### 리뷰 관리
-![image (9)](https://github.com/user-attachments/assets/40259614-01bd-49ad-b2c9-1ab04351d5df)
-
-<hr>
-
 ### 관리자 관련 기능
 ![관리자](https://github.com/user-attachments/assets/84f60477-d456-494d-b6e5-a7826f9cb20d)
 
