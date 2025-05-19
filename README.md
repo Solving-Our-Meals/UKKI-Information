@@ -8,32 +8,30 @@
 </p>
 
 ## 목차
->### [1. S.O.M(Solving Our Meals)](#1-som-solving-our-meals)
->### [2. Team Members Informantion](#2-team-members-information)
->### [3. Project Outline](#3-project-outline)
->### [4. Project Architecture](#4-project-architecture)
->### [5. Development Environment](#5-development-environment)
->### [6. Features](#6-features)
->### [7. Directory Structure](#7-directory-structure)
->### [8. Comparative Program Analysis](#8-comparative-program-analysis)
->### [9. Work Flow Chart](#9-work-flow-chart)
->### [10. ERD](#10-erd)
->### [11. Persona Analysis](#11-persona-analysis)
->### [12. WBS](#12-wbs)
->### [13. Software Requirement Specification](#13-software-requirement-specification)
->### [14. RESTful API design](#14-restful-api-design)
->### [15. Figma Planning](#15-figma-planning)
->### [16. Questionnaire](#16-questionnaire)
+### [1. S.O.M(Solving Our Meals)](#1-som-solving-our-meals)
+### [2. Team Members Informantion](#2-team-members-information)
+### [3. Project Outline](#3-project-outline)
+### [4. Project Architecture](#4-project-architecture)
+### [5. Development Environment](#5-development-environment)
+### [6. Features](#6-features)
+### [7. Directory Structure](#7-directory-structure)
+### [8. Comparative Program Analysis](#8-comparative-program-analysis)
+### [9. Work Flow Chart](#9-work-flow-chart)
+### [10. ERD](#10-erd)
+### [11. Persona Analysis](#11-persona-analysis)
+### [12. WBS](#12-wbs)
+### [13. Software Requirement Specification](#13-software-requirement-specification)
+### [14. RESTful API design](#14-restful-api-design)
+### [15. Figma Planning](#15-figma-planning)
+### [16. Questionnaire](#16-questionnaire)
 
 <br>
 
-<a id="1-som-solving-our-meals"></a>
 ## 1. S.O.M (Solving Our Meals)
 >- **프로젝트 명 "우끼"의 풀네임인 우리들의 끼니 해결의 영어 의미인 Solving Our Meals를 줄여 S.O.M (솜)이라 칭함**
 
 <br>
 
-<a id="2-team-members-information"></a>
 ## 2. Team Members Information
 
 | Project Manager | Configuration Manager | Database Manager | Database Manager |
@@ -44,7 +42,6 @@
 
 <br>
 
-<a id="3-project-outline"></a>
 ## 3. Project Outline
 ### 배경
 > - 요리에 대한 여러 프로그램의 성행으로 맛있는 한 끼에 대한 관심도가 증가한 반면 혼밥을 하는 사람들에게 적합한 사이트가 존재하지 않아
@@ -61,13 +58,11 @@
 
 <br>
 
-<a id="4-project-architecture"></a>
 ## 4. Project Architecture 
 ![호준 - 아키텍처 (1)](https://github.com/user-attachments/assets/04123cab-3aab-4fee-b0c5-02b66d05d1f6)
 
 <br>
 
-<a id="5-development-environment"></a>
 ## 5.Development Environment 
 
 #### Version Management
@@ -116,7 +111,6 @@
 
 <br>
 
-<a id="6-features"></a>
 ## 6. Features
 ### 공통 기능
 #### 메인 페이지
@@ -149,7 +143,6 @@
 
 <br>
 
-<a id="7-directory-structure"></a>
 ## 7. Directory Structure
 <h3> 
 <details>
@@ -345,7 +338,6 @@
 
 <br>
 
-<a id="8-comparative-program-analysis"></a>
 ## 8. Comparative Program Analysis
 <details>
 <summary>1. 캐치테이블</summary>
@@ -366,11 +358,9 @@
 
 <br>
 
-<a id="9-work-flow-chart"></a>
 ## 9. Work Flow Chart
 ![업무흐름도](https://github.com/user-attachments/assets/3c26f01e-ea77-46fd-b5d5-5ccb264d50af)
 
-<a id="10-erd"></a>
 ## 10. ERD
 ### 논리 데이터베이스 모델
 ![image (2)](https://github.com/user-attachments/assets/b51f74e6-2ae2-4e52-88bd-908c789f53d5)
@@ -379,7 +369,6 @@
 
 <br>
 
-<a id="11-persona-analysis"></a>
 ## 11. Persona Analysis
 <details>
 <summary>페르소나 분석</summary>
@@ -391,7 +380,6 @@
 
 <br>
 
-<a id="12-wbs"></a>
 ## 12. WBS
 <details>
 <summary>WBS</summary>
@@ -400,7 +388,6 @@
 
 <br>
 
-<a id="13-software-requirement-specification"></a>
 ## 13.Software Requirement Specification
 <details>
 <summary>Software Requirement Specification</summary>
@@ -412,7 +399,6 @@
 
 <br>
 
-<a id="14-restful-api-design"></a>
 ## 14. RESTful API design
 <details>
 <summary>RESTful API design</summary>
@@ -424,7 +410,6 @@
 
 <br>
 
-<a id="15-figma-planning"></a>
 ## 15. Figma Planning
 <details>
 <summary>Figma Planning</summary>
@@ -433,7 +418,6 @@
 
 <br>
 
-<a id="16-questionnaire"></a>
 ## 16. Questionnaire
 <details>
 <summary>Questionnaire</summary>
