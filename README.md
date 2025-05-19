@@ -8,22 +8,22 @@
 </p>
 
 ## 목차
-### [1. S.O.M(Solving Our Meals)](#1-som-solving-our-meals)
-### [2. Team Members Informantion](#2-team-members-information)
-### [3. Project Outline](#3-project-outline)
-### [4. Project Architecture](#4-project-architecture)
-### [5. Development Environment](#5-development-environment)
-### [6. Features](#6-features)
-### [7. Directory Structure](#7-directory-structure)
-### [8. Comparative Program Analysis](#8-comparative-program-analysis)
-### [9. Work Flow Chart](#9-work-flow-chart)
-### [10. ERD](#10-erd)
-### [11. Persona Analysis](#11-persona-analysis)
-### [12. WBS](#12-wbs)
-### [13. Software Requirement Specification](#13-software-requirement-specification)
-### [14. RESTful API design](#14-restful-api-design)
-### [15. Figma Planning](#15-figma-planning)
-### [16. Questionnaire](#16-questionnaire)
+> ### [1. S.O.M (Solving Our Meals)](#1-som-solving-our-meals)  
+> ### [2. Team Members Information](#2-team-members-information)  
+> ### [3. Project Outline](#3-project-outline)  
+> ### [4. Project Architecture](#4-project-architecture)  
+> ### [5. Development Environment](#5-development-environment)  
+> ### [6. Features](#6-features)  
+> ### [7. Directory Structure](#7-directory-structure)  
+> ### [8. Comparative Program Analysis](#8-comparative-program-analysis)  
+> ### [9. Work Flow Chart](#9-work-flow-chart)  
+> ### [10. ERD](#10-erd)  
+> ### [11. Persona Analysis](#11-persona-analysis)  
+> ### [12. WBS](#12-wbs)  
+> ### [13. Software Requirement Specification](#13-software-requirement-specification)  
+> ### [14. RESTful API design](#14-restful-api-design)  
+> ### [15. Figma Planning](#15-figma-planning)  
+> ### [16. Questionnaire](#16-questionnaire)  
 
 <br>
 
