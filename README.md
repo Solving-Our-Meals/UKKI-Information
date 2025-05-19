@@ -116,31 +116,42 @@
 #### 메인 페이지
 <img src="https://github.com/user-attachments/assets/2e67414b-4943-41ca-87b6-99359ac9dfed" alt="메인페이지gif" width="600"/>
 
+<hr>
 
 #### 식당 검색
+![검색](https://github.com/user-attachments/assets/1eaf232d-f2a2-48ff-9208-9f57847600cc)
 
+<hr>
 
 ### 회원 관련 기능
+#### 로그인
+![로그인](https://github.com/user-attachments/assets/62c5f454-2998-4386-a8fa-9024ffa6d301)
+
+<hr>
+
 #### 식당 정보 상세 보기
 ![image (8)](https://github.com/user-attachments/assets/ba95924b-5b6e-4864-9872-f648c2a8510f)
 
+<hr>
 
 #### 식당 예약
-![image](https://github.com/user-attachments/assets/04ec9d4f-f906-4a48-88e4-8ec015f2e85a)
+![예약](https://github.com/user-attachments/assets/06a125e8-ac25-474e-8505-0567ae684390)
 
-
-<br>
+<hr>
 
 ### 식당 사장님 관련 기능
 #### 예약 가능 인원 조정
+![예약가능인원조정](https://github.com/user-attachments/assets/bcbcefc8-b2cb-48e8-a560-6dad77552dfd)
+
+<hr>
 
 #### 리뷰 관리
 ![image (9)](https://github.com/user-attachments/assets/40259614-01bd-49ad-b2c9-1ab04351d5df)
 
-
-<br>
+<hr>
 
 ### 관리자 관련 기능
+![관리자](https://github.com/user-attachments/assets/84f60477-d456-494d-b6e5-a7826f9cb20d)
 
 <br>
 
