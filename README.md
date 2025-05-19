@@ -20,8 +20,8 @@
 >### [10. ERD](#10-erd)
 >### [11. Persona Analysis](#11-persona-analysis)
 >### [12. WBS](#12-wbs)
->### [13. Software Requirement Specification](#13-softwar-requirement-specification)
->### [14. RESTful API design](#14-restful-api-design")
+>### [13. Software Requirement Specification](#13-software-requirement-specification)
+>### [14. RESTful API design](#14-restful-api-design)
 >### [15. Figma Planning](#15-figma-planning)
 >### [16. Questionnaire](#16-questionnaire)
 
