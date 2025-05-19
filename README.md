@@ -9,21 +9,21 @@
 
 ## 목차
 > ### [1. S.O.M (Solving Our Meals)](#1-som-solving-our-meals-1) 
-> ### [2. Team Members Information](https://github.com/Solving-Our-Meals/UKKI-Information?tab=readme-ov-file#2-team-members-information)
-> ### [3. Project Outline](#3-project-outline)  
-> ### [4. Project Architecture](#4-project-architecture)  
-> ### [5. Development Environment](#5-development-environment)  
-> ### [6. Features](#6-features)  
-> ### [7. Directory Structure](#7-directory-structure)  
-> ### [8. Comparative Program Analysis](#8-comparative-program-analysis)  
-> ### [9. Work Flow Chart](#9-work-flow-chart)  
-> ### [10. ERD](#10-erd)  
-> ### [11. Persona Analysis](#11-persona-analysis)  
-> ### [12. WBS](#12-wbs)  
-> ### [13. Software Requirement Specification](#13-software-requirement-specification)  
-> ### [14. RESTful API design](#14-restful-api-design)  
-> ### [15. Figma Planning](#15-figma-planning)  
-> ### [16. Questionnaire](#16-questionnaire)  
+> ### [2. Team Members Information](#2-team-members-information-1)
+> ### [3. Project Outline](#3-project-outline-1) 
+> ### [4. Project Architecture](#4-project-architecture-1) 
+> ### [5. Development Environment](#5-development-environment-1) 
+> ### [6. Features](#6-features-1) 
+> ### [7. Directory Structure](#7-directory-structure-1) 
+> ### [8. Comparative Program Analysis](#8-comparative-program-analysis-1)
+> ### [9. Work Flow Chart](#9-work-flow-chart-1) 
+> ### [10. ERD](#10-erd-1)   
+> ### [11. Persona Analysis](#11-persona-analysis-1)
+> ### [12. WBS](#12-wbs-1)
+> ### [13. Software Requirement Specification](#13-software-requirement-specification-1)  
+> ### [14. RESTful API design](#14-restful-api-design-1)
+> ### [15. Figma Planning](#15-figma-planning-1)
+> ### [16. Questionnaire](#16-questionnaire-1)
 
 <br>
 
@@ -63,7 +63,7 @@
 
 <br>
 
-## 5.Development Environment 
+## 5. Development Environment 
 
 #### Version Management
 > ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -368,6 +368,8 @@
 ## 9. Work Flow Chart
 ![업무흐름도](https://github.com/user-attachments/assets/3c26f01e-ea77-46fd-b5d5-5ccb264d50af)
 
+<br>
+
 ## 10. ERD
 ### 논리 데이터베이스 모델
 ![image (2)](https://github.com/user-attachments/assets/b51f74e6-2ae2-4e52-88bd-908c789f53d5)
@@ -395,7 +397,7 @@
 
 <br>
 
-## 13.Software Requirement Specification
+## 13. Software Requirement Specification
 <details>
 <summary>Software Requirement Specification</summary>
   <img src="https://github.com/user-attachments/assets/7717b823-2485-4706-b24e-4a6bc681ca65" alt="Software Requirement Specification" width="500"/>
